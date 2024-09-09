@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APICORE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e57cb50946e21a33cd2ecafa2ade4c7d413173d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af399cbb325869e39132ef44b7f29dcfee5d6a7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("APICORE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APICORE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
